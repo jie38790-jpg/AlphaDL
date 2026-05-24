@@ -1,0 +1,62 @@
+{
+  "job_id": "api_26eefdd858844bbaac438dc8",
+  "mode": "zip_split",
+  "file_url": "https://free-dl9.myalphadl.com/EVPpXi4XQhst7hNaDaDoRA/Paterson.2016.720p.BluRay.YIFY.mp4",
+  "suggested_filename": "Paterson.2016.720p.BluRay.YIFY.mp4",
+  "total_size_bytes": 911663664,
+  "created_at_utc": "2026-05-24T21:30:09.129553+00:00",
+  "zip_folder": "jobs/api_26eefdd858844bbaac438dc8/zip",
+  "zip_main_file": "Paterson.2016.720p.BluRay.YIFY_split.zip",
+  "zip_parts": [
+    {
+      "name": "Paterson.2016.720p.BluRay.YIFY_split.z01",
+      "path": "jobs/api_26eefdd858844bbaac438dc8/zip/Paterson.2016.720p.BluRay.YIFY_split.z01",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Paterson.2016.720p.BluRay.YIFY_split.z02",
+      "path": "jobs/api_26eefdd858844bbaac438dc8/zip/Paterson.2016.720p.BluRay.YIFY_split.z02",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Paterson.2016.720p.BluRay.YIFY_split.z03",
+      "path": "jobs/api_26eefdd858844bbaac438dc8/zip/Paterson.2016.720p.BluRay.YIFY_split.z03",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Paterson.2016.720p.BluRay.YIFY_split.z04",
+      "path": "jobs/api_26eefdd858844bbaac438dc8/zip/Paterson.2016.720p.BluRay.YIFY_split.z04",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Paterson.2016.720p.BluRay.YIFY_split.z05",
+      "path": "jobs/api_26eefdd858844bbaac438dc8/zip/Paterson.2016.720p.BluRay.YIFY_split.z05",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Paterson.2016.720p.BluRay.YIFY_split.z06",
+      "path": "jobs/api_26eefdd858844bbaac438dc8/zip/Paterson.2016.720p.BluRay.YIFY_split.z06",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Paterson.2016.720p.BluRay.YIFY_split.z07",
+      "path": "jobs/api_26eefdd858844bbaac438dc8/zip/Paterson.2016.720p.BluRay.YIFY_split.z07",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Paterson.2016.720p.BluRay.YIFY_split.z08",
+      "path": "jobs/api_26eefdd858844bbaac438dc8/zip/Paterson.2016.720p.BluRay.YIFY_split.z08",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Paterson.2016.720p.BluRay.YIFY_split.z09",
+      "path": "jobs/api_26eefdd858844bbaac438dc8/zip/Paterson.2016.720p.BluRay.YIFY_split.z09",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Paterson.2016.720p.BluRay.YIFY_split.zip",
+      "path": "jobs/api_26eefdd858844bbaac438dc8/zip/Paterson.2016.720p.BluRay.YIFY_split.zip",
+      "size_bytes": 62317326
+    }
+  ]
+}
